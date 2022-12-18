@@ -5,6 +5,9 @@ ce projet est une mise en place d'une architecture Kappa pour le real-time senti
 •	Spark ML pour l’entrainement d’un modèle pour la prédiction en temps réel.
 •	Elastic Search pour la recherche et indexation des données rapidement et en temps réel
 •	Kibana pour la visualisation en temps réel.
+## Architecture Du Projet 
+![image](https://user-images.githubusercontent.com/82553919/208305954-621b1fe4-cad0-43e1-8041-c24b094bcbfb.png)
+
 
 ## Installation et mise en place des outils :
 -Tout d’abord , on suppose que vous avez déjà installé docker sur votre machine. Si ce n’est pas le cas, vous pouvez télécharger et installer à partir du site officielle : https://docs.docker.com/desktop/install/windows-install/ .
